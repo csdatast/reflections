@@ -7,6 +7,10 @@ The folder .git is created and the repository gets status of git repository. It'
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It allows to save changes in different files made in different times in one commit.
+
+
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
