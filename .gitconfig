@@ -1,0 +1,9 @@
+[core]
+	editor = 'C:\\Windows\\notepad.exe' -n -w
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
+[user]
+	email = ig
+	name = ig
